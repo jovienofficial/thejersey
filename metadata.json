@@ -1,0 +1,7 @@
+{
+  "name": "The Jersey Guys AI",
+  "description": "Professional AI-powered social media content generation for football jerseys.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
